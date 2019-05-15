@@ -1,0 +1,9 @@
+C:\Projects\TestHeroku\TestHeroku\bin\Debug\netcoreapp1.1\TestHeroku.deps.json
+C:\Projects\TestHeroku\TestHeroku\bin\Debug\netcoreapp1.1\TestHeroku.runtimeconfig.json
+C:\Projects\TestHeroku\TestHeroku\bin\Debug\netcoreapp1.1\TestHeroku.runtimeconfig.dev.json
+C:\Projects\TestHeroku\TestHeroku\bin\Debug\netcoreapp1.1\TestHeroku.dll
+C:\Projects\TestHeroku\TestHeroku\bin\Debug\netcoreapp1.1\TestHeroku.pdb
+C:\Projects\TestHeroku\TestHeroku\obj\Debug\netcoreapp1.1\TestHeroku.csprojResolveAssemblyReference.cache
+C:\Projects\TestHeroku\TestHeroku\obj\Debug\netcoreapp1.1\TestHeroku.AssemblyInfo.cs
+C:\Projects\TestHeroku\TestHeroku\obj\Debug\netcoreapp1.1\TestHeroku.dll
+C:\Projects\TestHeroku\TestHeroku\obj\Debug\netcoreapp1.1\TestHeroku.pdb
